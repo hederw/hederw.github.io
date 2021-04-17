@@ -42,10 +42,21 @@ body{
 
 .image{
     position: absolute;
+   
 }
 
 .geral{
-    margin-top: 550px;
+    margin-top: 750px;
     padding: 10px;
+    
+}
+ul li:nth-child(odd){
+    color: rgb(211, 14, 14);
+    font-family:monospace;
+}
+
+.habilities{
+    margin-top: 550px;
+    position: absolute;
     
 }
