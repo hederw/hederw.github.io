@@ -1,6 +1,8 @@
 .nome{
     font-family: 'Montserrat',sans-serif;
     text-align: center;
+    margin: 10px;
+
     
 }
 .image{
@@ -8,6 +10,7 @@
         border-radius: 10px;
         padding: 10px;
         background-color: rgb(0, 0, 0);
+        margin: 10px;
 }
 .description{
     font-family: 'Orelega One', cursive;
@@ -43,4 +46,6 @@ body{
 
 .geral{
     margin-top: 550px;
+    padding: 10px;
+    
 }
