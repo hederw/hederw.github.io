@@ -1,6 +1,7 @@
 .nome{
     font-family: 'Montserrat',sans-serif;
     text-align: center;
+    
 }
 .image{
     
@@ -8,6 +9,8 @@
 }
 .description{
     font-family: 'Orelega One', cursive;
+    position:absolute;
+    left: 500px;
 }
 body{
     background-color: darkcyan;
@@ -30,12 +33,6 @@ body{
 }
 .list4{
     font-size: 20px;
-}
-
-.descricao{
-    
-    position:absolute;
-    left: 500px;
 }
 
 .image{
