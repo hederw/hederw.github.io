@@ -19,15 +19,29 @@ body{
 }
 
 .list1{
-    font-size: 10px;
+    font-size: 20px;
 
 }
 .list2{
     font-size: 20px;
 }
 .list3{
-    font-size: 30px;
+    font-size: 20px;
 }
 .list4{
-    font-size: 40px;
+    font-size: 20px;
+}
+
+.descricao{
+    
+    position:absolute;
+    left: 500px;
+}
+
+.image{
+    position: absolute;
+}
+
+.geral{
+    margin-top: 500px;
 }
